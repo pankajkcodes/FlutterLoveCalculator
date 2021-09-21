@@ -1,16 +1,6 @@
-z# lovecalculator
+# lovecalculator
 
-A new Flutter project.
+![Screenshot_1632239386](https://user-images.githubusercontent.com/74593517/134206004-644e329b-0c5e-4771-9eb2-97c52cb09933.png)
+![Screenshot_1632239390](https://user-images.githubusercontent.com/74593517/134206012-4cb91a0d-f020-48f4-8fed-4f1d4ef8556d.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
